@@ -155,3 +155,5 @@ CSRF_TRUSTED_ORIGINS = [
     'https://nba-web.ovcn.ddnsfree.com',
     # Add other trusted origins if necessary
 ]
+
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
