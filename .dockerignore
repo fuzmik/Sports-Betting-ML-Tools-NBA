@@ -1,0 +1,7 @@
+.git
+__pycache__
+*.pyc
+*.log
+#data/  # If you have a data directory you don't need in the image
+Dockerfile*
+docker-compose*
